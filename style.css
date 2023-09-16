@@ -1,0 +1,44 @@
+
+.thumbnail{
+  width: 100%;
+  border-radius: 10px;
+}
+
+
+.channel-owner-pic{
+  width: 100%;
+  border-radius: 30px;
+}
+.video-description{
+  font-family: Roboto;
+  }
+
+.video-title{
+  margin-top: 0;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: 0;
+  line-height: 20px;
+}
+
+.channel-owner{
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  margin-top: 7px;
+  margin-bottom: 3px;
+  color: #606060;
+}
+.video-stats{
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  margin-top: 0;
+  color: #606060;
+}
+
+.video-info-grid{
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
